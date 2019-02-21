@@ -1,5 +1,6 @@
 # IOTA project
 The project we did in USC Blockathon 2019
+https://devpost.com/software/team-dietcoke
 
 # What is IOTA
 IOTA is an Open-Source Distributed Ledger. The first open-source distributed ledger that is being built to power the future of the Internet of Things with feeless microtransactions and data integrity for machines.
