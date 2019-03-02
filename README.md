@@ -1,15 +1,15 @@
-# IOTA project
+## IOTA project
 The project we did in USC Blockathon 2019
 https://devpost.com/software/team-dietcoke
 
-# What is IOTA
+## What is IOTA
 IOTA is an Open-Source Distributed Ledger. The first open-source distributed ledger that is being built to power the future of the Internet of Things with feeless microtransactions and data integrity for machines.
 https://www.iota.org
 
-# Inspiration
+## Inspiration
 Surfing the web is part of everyone's daily life. But many factors can decrease the security of the web surfing experience, such as pop-up ads and malicious link redirections. We want to provide a solution to increase the security of Internet browsing by leveraging the IOTA blockchain structure.
 
-# What it does
+## What it does
 Our project creates a blockchain structure which encapsulates a website and the sub-websites that it can be redirected to.
 
 Businesses register with the government to prove the legality and authenticity of their website. Following the registration, businesses receive their unique business ID. This governmental business registration guarantees both the legality and security of the website, thereby replacing the need of 3rd party certifications.
